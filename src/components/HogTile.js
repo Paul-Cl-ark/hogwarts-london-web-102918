@@ -60,3 +60,4 @@ export default class HogTile extends Component {
 //   'weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water': 2.0,
 //   'highest medal achieved': 'bronze'
 // }
+//
